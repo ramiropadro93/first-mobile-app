@@ -4,15 +4,9 @@ Esta es mi primera aplicación desarrollada en React Native como parte de mi pla
 
 ## Instalación
 
-Para probar la aplicación en dispositivos Android o iOS, seguir los siguientes pasos:
+### Para probar la aplicación en dispositivos Android o iOS, seguir los siguientes pasos:
 
-### Prerrequisitos
-
-- Node.js (versión 14 o superior)
-- npm (versión 6 o superior)
-- Expo CLI
-
-Podés instalar Expo CLI globalmente ejecutando el siguiente comando:
+Instalar Expo CLI globalmente ejecutando el siguiente comando:
 
 ```sh
 npm install -g expo-cli
@@ -34,11 +28,11 @@ npm run start
 ```
 
 Probar en Dispositivos Móviles:
-- Android
+### Android
 1. Descargar la aplicación Expo Go.
 2. Abrir Expo Go y escanear el código QR mostrado por Metro Bundler para cargar la aplicación en tu dispositivo Android.
   
-- IOS
+### IOS
 1. Descargar la aplicación Expo Go desde la App Store.
 2. Abrir Expo Go y escanear el código QR mostrado por Metro Bundler para cargar la aplicación en tu dispositivo iOS.
 
