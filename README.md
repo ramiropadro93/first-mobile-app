@@ -32,3 +32,14 @@ Ejecutar la aplicación:
 ```sh
 npm run start
 ```
+
+Probar en Dispositivos Móviles:
+- Android
+1- Descargar la aplicación Expo Go.
+2- Abrir Expo Go y escanear el código QR mostrado por Metro Bundler para cargar la aplicación en tu dispositivo Android.
+  
+- IOS
+1- Descargar la aplicación Expo Go desde la App Store.
+2- Abrir Expo Go y escanear el código QR mostrado por Metro Bundler para cargar la aplicación en tu dispositivo iOS.
+
+  
