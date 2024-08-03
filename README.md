@@ -16,3 +16,19 @@ Podés instalar Expo CLI globalmente ejecutando el siguiente comando:
 
 ```sh
 npm install -g expo-cli
+```
+
+Clonar el repositorio:
+```sh
+git clone https://github.com/tu-usuario/MyReactNativeApp.git
+```
+
+Instalar dependencias: 
+```sh
+npm install
+```
+
+Ejecutar la aplicación: 
+```sh
+npm run start
+```
